@@ -4,3 +4,5 @@
 
 
 ![ejemplo_01](ejemplo_01.png)
+![ejemplo_02](ejemplo_02.png)
+![ejemplo_03](ejemplo_03.png)
