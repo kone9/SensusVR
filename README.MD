@@ -3,4 +3,4 @@
 ## plugin VLC para stream media player compatibilidad con RTSP
 
 
-![articulado_02](articulado_02.png)
+![ejemplo_01](ejemplo_01.png)
